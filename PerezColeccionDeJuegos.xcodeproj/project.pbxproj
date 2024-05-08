@@ -14,6 +14,7 @@
 		B900EAD42BEBE27B00DDCBC0 /* PerezColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B900EAD22BEBE27B00DDCBC0 /* PerezColeccionDeJuegos.xcdatamodeld */; };
 		B900EAD62BEBE27D00DDCBC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B900EAD52BEBE27D00DDCBC0 /* Assets.xcassets */; };
 		B900EAD92BEBE27D00DDCBC0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B900EAD82BEBE27D00DDCBC0 /* Base */; };
+		B900EAE32BEC019A00DDCBC0 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B900EAE22BEC019A00DDCBC0 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B900EAD52BEBE27D00DDCBC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B900EAD82BEBE27D00DDCBC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B900EADA2BEBE27D00DDCBC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B900EAE22BEC019A00DDCBC0 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B900EACB2BEBE27B00DDCBC0 /* SceneDelegate.swift */,
 				B900EACD2BEBE27B00DDCBC0 /* ViewController.swift */,
 				B900EACF2BEBE27B00DDCBC0 /* Main.storyboard */,
+				B900EAE22BEC019A00DDCBC0 /* JuegosViewController.swift */,
 				B900EAD52BEBE27D00DDCBC0 /* Assets.xcassets */,
 				B900EAD72BEBE27D00DDCBC0 /* LaunchScreen.storyboard */,
 				B900EADA2BEBE27D00DDCBC0 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B900EAE32BEC019A00DDCBC0 /* JuegosViewController.swift in Sources */,
 				B900EACE2BEBE27B00DDCBC0 /* ViewController.swift in Sources */,
 				B900EACA2BEBE27B00DDCBC0 /* AppDelegate.swift in Sources */,
 				B900EAD42BEBE27B00DDCBC0 /* PerezColeccionDeJuegos.xcdatamodeld in Sources */,
